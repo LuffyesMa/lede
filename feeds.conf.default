@@ -9,4 +9,3 @@ src-git helloworld https://github.com/fw876/helloworld.git
 #src-git oldpackages http://git.openwrt.org/packages.git
 #src-link custom /usr/src/openwrt/custom-feed
 src-git DDNSGo https://github.com/sirpdboy/luci-app-ddns-go.git
-src-git OpenClash https://github.com/vernesong/OpenClash.git
